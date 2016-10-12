@@ -19,17 +19,15 @@ public class AppleAndOranges {
         for(int i = 0; i < m; ++i) {
             apples[i] = scanner.nextInt();
             int a_c =  apples[i] + a;
-            if(a_c >= s && a_c <= t) {
+            if(a_c >= s && a_c <= t)
                 c++;
-            }
         }
 
         for(int i = 0; i < n; ++i) {
             oranges[i] = scanner.nextInt();
             int o_c = oranges[i] + b;
-            if(o_c >= s && o_c <= t){
+            if(o_c >= s && o_c <= t)
                 d++;
-            }
         }
 
         System.out.println(c);
