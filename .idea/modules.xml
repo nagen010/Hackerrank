@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AppleAndOranges/AppleAndOranges.iml" filepath="$PROJECT_DIR$/AppleAndOranges/AppleAndOranges.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hackerrank.iml" filepath="$PROJECT_DIR$/Hackerrank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HappyLadyBugs/HappyLadyBugs.iml" filepath="$PROJECT_DIR$/HappyLadyBugs/HappyLadyBugs.iml" />
       <module fileurl="file://$PROJECT_DIR$/LectureNotes/LectureNotes.iml" filepath="$PROJECT_DIR$/LectureNotes/LectureNotes.iml" />
       <module fileurl="file://$PROJECT_DIR$/SockMerchant/SockMerchant.iml" filepath="$PROJECT_DIR$/SockMerchant/SockMerchant.iml" />
     </modules>
